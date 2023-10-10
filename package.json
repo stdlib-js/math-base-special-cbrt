@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-cbrt",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Compute the cube root of a double-precision floating-point number.",
   "license": "Apache-2.0",
   "author": {
@@ -46,11 +46,11 @@
     "@stdlib/constants-float64-smallest-normal": "^0.1.1",
     "@stdlib/math-base-assert-is-infinite": "^0.1.1",
     "@stdlib/math-base-assert-is-nan": "^0.1.1",
-    "@stdlib/math-base-napi-unary": "^0.1.0",
-    "@stdlib/number-float64-base-from-words": "^0.1.0",
-    "@stdlib/number-float64-base-get-high-word": "^0.1.0",
-    "@stdlib/number-float64-base-set-high-word": "^0.1.0",
-    "@stdlib/number-float64-base-to-words": "^0.1.0",
+    "@stdlib/math-base-napi-unary": "^0.1.1",
+    "@stdlib/number-float64-base-from-words": "^0.1.1",
+    "@stdlib/number-float64-base-get-high-word": "^0.1.1",
+    "@stdlib/number-float64-base-set-high-word": "^0.1.1",
+    "@stdlib/number-float64-base-to-words": "^0.1.1",
     "@stdlib/utils-library-manifest": "^0.1.1"
   },
   "devDependencies": {

@@ -61,7 +61,7 @@
     "@stdlib/fs-write-file": "^0.1.1",
     "@stdlib/math-base-assert-is-negative-zero": "^0.1.1",
     "@stdlib/math-base-assert-is-positive-zero": "^0.1.1",
-    "@stdlib/math-base-special-abs": "^0.1.0",
+    "@stdlib/math-base-special-abs": "^0.1.1",
     "@stdlib/math-base-tools-evalpoly-compile": "^0.1.0",
     "@stdlib/random-base-randu": "^0.1.0",
     "@stdlib/time-current-year": "^0.1.1",

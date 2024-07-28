@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import cbrt from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cbrt@esm/index.mjs';
+import cbrt from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cbrt@v0.2.2-esm/index.mjs';
 ```
 
 #### cbrt( x )
@@ -86,7 +86,7 @@ v = cbrt( NaN );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import cbrt from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cbrt@esm/index.mjs';
+import cbrt from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-cbrt@v0.2.2-esm/index.mjs';
 
 var x;
 var i;

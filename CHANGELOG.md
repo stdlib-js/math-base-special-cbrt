@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-25)
+## Unreleased (2025-10-01)
 
 <section class="reverts">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`c1cb6ae`](https://github.com/stdlib-js/stdlib/commit/c1cb6ae0965bc8aa432b8eb2dddb03c8e1b42a2f) - **test:** add tests to achieve full coverage in `cbrt` _(by Philipp Burckhardt)_
 -   [`ffb8d78`](https://github.com/stdlib-js/stdlib/commit/ffb8d78f3585b29d72f2eb98e7b2164bed7a7ce7) - **chore:** fix duplicate example value in `math/base/special/cbrt` [(#7951)](https://github.com/stdlib-js/stdlib/pull/7951) _(by Nakul Krishnakumar)_
 -   [`dd5765d`](https://github.com/stdlib-js/stdlib/commit/dd5765d771186bddbbc716d577bb94eafc0ac36b) - **docs:** replace manual `for` loop in examples [(#6607)](https://github.com/stdlib-js/stdlib/pull/6607) _(by Harsh)_
 -   [`630ddb7`](https://github.com/stdlib-js/stdlib/commit/630ddb777824b5f6e501fda6dadf4ce41dccb964) - **test:** replace equal with strictEqual _(by Karan Anand)_

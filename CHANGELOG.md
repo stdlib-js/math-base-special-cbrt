@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-10)
+## Unreleased (2026-06-16)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`ee6dfaf`](https://github.com/stdlib-js/stdlib/commit/ee6dfaf23de9936002f36a3ddb63ebab40bab512) - **test:** migrate `math/base/special/cbrt` to ULP-based testing [(#12806)](https://github.com/stdlib-js/stdlib/pull/12806) _(by Philipp Burckhardt)_
 -   [`4cd8e43`](https://github.com/stdlib-js/stdlib/commit/4cd8e438cc1b4e41e546704905ef9576d65bf0fc) - **test:** migrate `math/base/special/cbrt` to ULP-based testing [(#11839)](https://github.com/stdlib-js/stdlib/pull/11839) _(by Mandeep2333)_
 -   [`c73c8b3`](https://github.com/stdlib-js/stdlib/commit/c73c8b39bd76529182ea2b3423c6f0feab434774) - **bench:** refactor to use string interpolation in `math/base/special` [(#11387)](https://github.com/stdlib-js/stdlib/pull/11387) _(by Karan Anand)_
 
@@ -25,10 +26,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
 -   Mandeep2333
+-   Philipp Burckhardt
 
 </section>
 

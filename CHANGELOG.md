@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-02)
+## Unreleased (2026-11-10)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`2b568bd`](https://github.com/stdlib-js/stdlib/commit/2b568bd727177f95feae9cd3f940084030631b50) - **build:** compile C++ Boost benchmarks with C++14 [(#16556)](https://github.com/stdlib-js/stdlib/pull/16556) _(by Mara Averick)_
 -   [`8325057`](https://github.com/stdlib-js/stdlib/commit/8325057f59dacc6c43fbb3fa5c1026bf3cc5c296) - **docs:** add equations [(#14695)](https://github.com/stdlib-js/stdlib/pull/14695) _(by Karan Anand)_
 -   [`ee6dfaf`](https://github.com/stdlib-js/stdlib/commit/ee6dfaf23de9936002f36a3ddb63ebab40bab512) - **test:** migrate `math/base/special/cbrt` to ULP-based testing [(#12806)](https://github.com/stdlib-js/stdlib/pull/12806) _(by Philipp Burckhardt)_
 -   [`4cd8e43`](https://github.com/stdlib-js/stdlib/commit/4cd8e438cc1b4e41e546704905ef9576d65bf0fc) - **test:** migrate `math/base/special/cbrt` to ULP-based testing [(#11839)](https://github.com/stdlib-js/stdlib/pull/11839) _(by Mandeep2333)_
@@ -27,10 +28,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Karan Anand
 -   Mandeep2333
+-   Mara Averick
 -   Philipp Burckhardt
 
 </section>
